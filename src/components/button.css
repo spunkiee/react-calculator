@@ -1,0 +1,33 @@
+.button {
+    height: 40px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+    font-size: 20px;
+    background-color: #191919;
+    color: #a5a5a5;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.number {
+    background-color: #272727;
+    color: #a6a6a6;
+}
+
+.ac {
+    color: #d8802e;
+}
+
+.equal {
+    background-color: #d8802e;
+    color: #ecb98b;
+}
+
+.big-font {
+    font-size: 25px;
+    font-weight: normal;
+}
